@@ -3,7 +3,6 @@
 
 A conversational AI agent that suggests personalized activities based on your local weather and location using OpenAI function calling. Built with modern web technologies and AI integration.
 
-Demo Screenshot Add actual screenshot later
 🌟 Features
 
     Real-time Weather Integration 🌡️
